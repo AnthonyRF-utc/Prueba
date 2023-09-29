@@ -1,0 +1,7 @@
+C:\Users\antho\OneDrive\Documentos\Programacion 2\TiposDatos2\Estudiantes\bin\Debug\Estudiantes.exe.config
+C:\Users\antho\OneDrive\Documentos\Programacion 2\TiposDatos2\Estudiantes\bin\Debug\Estudiantes.exe
+C:\Users\antho\OneDrive\Documentos\Programacion 2\TiposDatos2\Estudiantes\bin\Debug\Estudiantes.pdb
+C:\Users\antho\OneDrive\Documentos\Programacion 2\TiposDatos2\Estudiantes\obj\Debug\Estudiantes.csproj.AssemblyReference.cache
+C:\Users\antho\OneDrive\Documentos\Programacion 2\TiposDatos2\Estudiantes\obj\Debug\Estudiantes.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documentos\Programacion 2\TiposDatos2\Estudiantes\obj\Debug\Estudiantes.exe
+C:\Users\antho\OneDrive\Documentos\Programacion 2\TiposDatos2\Estudiantes\obj\Debug\Estudiantes.pdb

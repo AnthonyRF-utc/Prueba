@@ -1,0 +1,7 @@
+C:\Users\antho\OneDrive\Documentos\Programacion 2\TiposDatos2\TiposDatos2\bin\Debug\TiposDatos2.exe.config
+C:\Users\antho\OneDrive\Documentos\Programacion 2\TiposDatos2\TiposDatos2\bin\Debug\TiposDatos2.exe
+C:\Users\antho\OneDrive\Documentos\Programacion 2\TiposDatos2\TiposDatos2\bin\Debug\TiposDatos2.pdb
+C:\Users\antho\OneDrive\Documentos\Programacion 2\TiposDatos2\TiposDatos2\obj\Debug\TiposDatos2.csproj.AssemblyReference.cache
+C:\Users\antho\OneDrive\Documentos\Programacion 2\TiposDatos2\TiposDatos2\obj\Debug\TiposDatos2.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documentos\Programacion 2\TiposDatos2\TiposDatos2\obj\Debug\TiposDatos2.exe
+C:\Users\antho\OneDrive\Documentos\Programacion 2\TiposDatos2\TiposDatos2\obj\Debug\TiposDatos2.pdb
